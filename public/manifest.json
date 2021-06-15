@@ -1,0 +1,9 @@
+{
+  "short_name": "Swagat Dash",
+  "name": "Swagat Dash Portfolio",
+  "icons": [  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
